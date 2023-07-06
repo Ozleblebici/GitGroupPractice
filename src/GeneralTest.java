@@ -5,7 +5,7 @@ public class GeneralTest {
     }
 
     public void test1(){
-        System.out.println("TEST1");
+        System.out.println("TEST1 updated sdal;mfsdklsf'ksflseg");
     }
 
     public void test2(){

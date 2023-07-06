@@ -5,11 +5,11 @@ public class GeneralTest {
     }
 
     public void test1(){
-        System.out.println("TEST1");
+        System.out.println("disabled test1 fskdgdsfsdfs");
     }
 
     public void test2(){
-        System.out.println("TEST2");
+        System.out.println("TEST2 updatedasdasfksdgmsdkfmsfksm");
     }
 
     public void test3(){
